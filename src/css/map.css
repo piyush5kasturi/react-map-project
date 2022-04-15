@@ -1,0 +1,11 @@
+.leaflet-container{
+    height: 71vh;
+  }
+path.leaflet-interactive{
+  stroke: black;
+  stroke-opacity: 0.3;
+  fill: transparent;
+  }
+  path.leaflet-interactive:hover{
+    fill: blue;
+    }

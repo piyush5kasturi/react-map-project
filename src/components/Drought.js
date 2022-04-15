@@ -1,4 +1,5 @@
 import React from 'react'
+import '../css/map.css'
 import Map from './Map'
 
 const Drought = () => {
@@ -46,7 +47,7 @@ const Drought = () => {
                 </div>
 
                 <div className=' my-4 box-border h-[75vh] w-[43rem] p-4 border-4'>
-                   <Map/>
+                    <Map />
                 </div>
             </div>
             <div className='right float-right'>
@@ -81,7 +82,7 @@ const Drought = () => {
                     </div>
                 </div>
                 <div className=' my-4 box-border h-[75vh] w-[43rem] p-4 border-4'>
-
+                    <Map />
                 </div>
             </div>
         </div>
